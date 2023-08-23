@@ -2,40 +2,39 @@
 
 #### Promptopia is a fully responsive and modern full stack Next 13 AI prompting tool app.
 
-Use the app [here](https://promptopia-xi-one.vercel.app)
+Use the app [here](https://promptopia-xi-one.vercel.app).
 
 # Description
 Promptopia is a fully responsive and modern full stack open-source AI prompting tool for the modern world to discover, create and share creative prompts.
 
- 
 # Take a Look at the App
 
 ## Desktop:
 
 <kbd>
-<img src="readme-images/desktop_ecomapp.png" />
+<img src="readme-images/desktop_app.png" />
 </kbd>
 
 <kbd>
-<img src="readme-images/desktop_ecomapp2.png" />
+<img src="readme-images/desktop_app2.png" />
 </kbd>
 
 ## Mobile:
 
 <kbd>
-<img src="readme-images/ecomapp_mobile.png" width="250"/>
+<img src="readme-images/mobile.png" width="250"/>
 </kbd>
 
 <kbd>
-<img src="readme-images/ecomapp_mobile2.png" width="250"/>
+<img src="readme-images/mobile2.png" width="250"/>
 </kbd>
 
 <kbd>
-<img src="readme-images/ecomapp_mobile3.png" width="250"/>
+<img src="readme-images/mobile3.png" width="250"/>
 </kbd>
 
 <kbd>
-<img src="readme-images/ecomapp_mobile4.png" width="250"/>
+<img src="readme-images/promptopia.gif"  width="250"/>
 </kbd>
 
 # Tools Used
