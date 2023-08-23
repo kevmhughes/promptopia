@@ -37,10 +37,9 @@ const MyProfile = () => {
           method: "DELETE",
         });
 
-        const filteredPosts = posts.filter((p) => p._id !== post._id);
+        const filteredPosts = myPosts.filter((p) => p._id !== post._id);
 
         setMyPosts(filteredPosts);
-        router.push("/");
       } catch (error) {
         console.log(error);
       }
