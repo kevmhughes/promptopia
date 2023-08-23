@@ -2,7 +2,7 @@
 
 #### Promptopia is a fully responsive and modern full stack Next 13 AI prompting tool app.
 
-Use the app [here](https://promptopia-xi-one.vercel.app)
+Use the app [here](https://promptopia-xi-one.vercel.app).
 
 # Description
 Promptopia is a fully responsive and modern full stack open-source AI prompting tool for the modern world to discover, create and share creative prompts.
