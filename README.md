@@ -1,34 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Promptopia
 
-## Getting Started
+#### Promptopia is a fully responsive and modern full stack Next 13 AI prompting tool app.
 
-First, run the development server:
+Use the app [here](https://promptopia-xi-one.vercel.app)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# Description
+Promptopia is a fully responsive and modern full stack open-source AI prompting tool for the modern world to discover, create and share creative prompts.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+ 
+# Take a Look at the App
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Desktop:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<kbd>
+<img src="readme-images/desktop_ecomapp.png" />
+</kbd>
 
-## Learn More
+<kbd>
+<img src="readme-images/desktop_ecomapp2.png" />
+</kbd>
 
-To learn more about Next.js, take a look at the following resources:
+## Mobile:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<kbd>
+<img src="readme-images/ecomapp_mobile.png" width="250"/>
+</kbd>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<kbd>
+<img src="readme-images/ecomapp_mobile2.png" width="250"/>
+</kbd>
 
-## Deploy on Vercel
+<kbd>
+<img src="readme-images/ecomapp_mobile3.png" width="250"/>
+</kbd>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<kbd>
+<img src="readme-images/ecomapp_mobile4.png" width="250"/>
+</kbd>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Tools Used
+
+### Development Environment
+* Node.js
+
+### Libraries & Frameworks
+* React 
+* Next.JS 13
+* Tailwind
+
+### Authentication
+* OAuth 2.0 (Google)
+
+### Backend
+* MongoDB
+* Mongoose
+
+### Hosting 
+* Vercel
+
+# Features
+
+### Users are able to:
+
+* sign in safely and securely using OAuth 2.0 (Google)
+* view all prompts from all users
+* browse prompts by tag
+* browse prompts by username
+* create prompts
+* edit created prompts
+* delete created prompts
