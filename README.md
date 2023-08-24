@@ -33,8 +33,10 @@ Promptopia is a fully responsive and modern full stack open-source AI prompting 
 <img src="readme-images/mobile3.png" width="250"/>
 </kbd>
 
+## Mobile (live mockup):
+
 <kbd>
-<img src="readme-images/promptapp.gif" width="250"/>
+<img src="readme-images/proapp.gif" width="250"/>
 </kbd>
 
 # Tools Used
