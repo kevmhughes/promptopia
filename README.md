@@ -5,7 +5,7 @@
 Use the app [here](https://promptopia-xi-one.vercel.app).
 
 # Description
-Promptopia is a fully responsive and modern full stack open-source AI prompting tool for the modern world to discover, create and share creative prompts.
+Promptopia is a fully responsive and modern full stack open-source AI prompting tool for the modern world to discover, create and share creative prompts. If you need inspiration, and if you like one or more of the prompts, you can copy them to use as you will. 
 
 # Take a Look at the App
 
@@ -67,6 +67,7 @@ Promptopia is a fully responsive and modern full stack open-source AI prompting 
 * view all prompts from all users
 * browse prompts by tag
 * browse prompts by username
+* copy prompts to use as you wish
 * create prompts
 * edit created prompts
 * delete created prompts
