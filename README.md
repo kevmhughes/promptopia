@@ -9,6 +9,12 @@ Promptopia is a fully responsive and modern full stack open-source AI prompting 
 
 # Take a Look at the App
 
+## Mobile (live mockup):
+
+<kbd>
+<img src="readme-images/proapp.gif" width="250"/>
+</kbd>
+
 ## Desktop:
 
 <kbd>
@@ -31,12 +37,6 @@ Promptopia is a fully responsive and modern full stack open-source AI prompting 
 
 <kbd>
 <img src="readme-images/mobile3.png" width="250"/>
-</kbd>
-
-## Mobile (live mockup):
-
-<kbd>
-<img src="readme-images/proapp.gif" width="250"/>
 </kbd>
 
 # Tools Used
